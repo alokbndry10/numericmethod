@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/DELL/Desktop/college/numericmethod",
-      "program": "c:/Users/DELL/Desktop/college/numericmethod/build/Debug/outDebug",
+      "cwd": "d:/college/numericmethod",
+      "program": "d:/college/numericmethod/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
