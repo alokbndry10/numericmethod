@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/college/numericmethod",
-      "program": "d:/college/numericmethod/build/Debug/outDebug",
+      "cwd": "c:/Users/ASUS/Documents/college/Alok/3rd sem/numericmethod",
+      "program": "c:/Users/ASUS/Documents/college/Alok/3rd sem/numericmethod/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
